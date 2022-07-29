@@ -4,7 +4,6 @@ import pytest
 import os
 import numpy as np
 
-
 def test_not_connected():
     # TODO ???? How
     pass
